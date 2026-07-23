@@ -1,4 +1,4 @@
- #🧠 MindMate
+# 🧠 MindMate
 
 MindMate is an AI-powered mental wellness companion that helps people reflect on their emotions through daily journaling. Instead of simply storing notes, it analyzes each journal entry to identify moods, emotions, recurring themes, and provides personalized, supportive feedback.
 
@@ -6,16 +6,16 @@ The goal of this project is to encourage self-reflection and help users better u
 
 This project was built to explore how AI can be used responsibly in mental health applications by combining thoughtful user experience, privacy-first design, and safety-focused engineering.
 
-##✨ Features
+## ✨ Features
 
-*📝 Daily AI-powered journal
-*😊 Mood and emotion analysis
-*💡 Personalized coping suggestions
-*📈 Mood history and trend visualization
-*🚨 Basic crisis-risk detection with supportive resources
-*🔒 Privacy-focused data handling
+* 📝 Daily AI-powered journal
+* 😊 Mood and emotion analysis
+* 💡 Personalized coping suggestions
+* 📈 Mood history and trend visualization
+* 🚨 Basic crisis-risk detection with supportive resources
+* 🔒 Privacy-focused data handling
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 * **Frontend:** React + HTML +CSS
 * **Backend:** Node.js + Express
